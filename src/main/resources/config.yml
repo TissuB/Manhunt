@@ -1,0 +1,32 @@
+# *********************************************************
+# Thank you for using this plugin and playing this plugin! <3
+# Author: TissuB
+# If you enjoy this plugin, please take note of contacting me for other plugins:
+# https://www.tissub.com/
+# *********************************************************
+
+# Set to true to set the time to day automatically when the game starts.
+timeSetDayOnStart: true
+# Set to true to set the weather to clear automatically when the game starts.
+weatherClearOnStart: true
+# Set to true to take away OPs for the duration of the game.
+takeAwayOps: true
+# Set to true to clear players inventories when the game starts.
+clearInventories: true
+# Set the time for speedrunners to run away.
+headStartDuration: 10
+# Set the amount of lives for speedrunners.
+speedrunnersLives: 1
+# Set to true to enable tracking speedrunners portals when they are in a different dimension.
+trackPortals: true
+# Set to true to enable tracking the nearest speedrunner on compasses.
+trackNearestMode: true
+# Set to true to teleport everyone in the same spot when the game starts.
+teleport: true
+# Set to true to open a menu to choose which speedrunner to track.
+compassMenu: false
+# Set to true to enable the pause feature (/manhunt pause).
+enablePauses: true
+# Set to true to enable permission checks.
+## Note: This feature needs a permissions plugin (such as LuckPerms) to work.
+usePermissions: false
